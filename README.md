@@ -138,8 +138,6 @@ sudo systemctl start nginx
 
 Agora é preciso criar uma página HTML para poder exibir no navegador.
 
-Agora é preciso criar uma página HTML para poder exibir no navegador.
-
 Acesse o diretório padrão do Nginx:
 
 ```
