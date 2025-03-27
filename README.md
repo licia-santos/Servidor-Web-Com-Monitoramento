@@ -22,9 +22,9 @@ A etapa 1 descreve o processo de criação de uma VPC na AWS com 2 sub-redes pú
   1. No menu lateral do VPC, vá até **Sub-redes** e clique em **Criar Sub-rede**.
   2. Configure os seguintes parâmetros:
      - **ID da VPC**: Selecione a VPC recém-criada (`MyVPC`).
-     - **Nome da sub-rede**: Public-Subnet-1.
-     - **Zona de disponibilidade**: us-east-1a (ou a de sua preferência).
-     - **Bloco CIDR IPv4 da Sub-rede**: 10.0.1.0/24.
+     - **Nome da sub-rede**: `Public-Subnet-1`.
+     - **Zona de disponibilidade**: `us-east-1a` (ou a de sua preferência).
+     - **Bloco CIDR IPv4 da Sub-rede**: `10.0.1.0/24`.
   3. Clique em **Criar Sub-rede**.
   4. Após criar a sub-rede, selecione-a, clique em **Ações** → **Editar configurações de sub-rede** e ative **Habilitar endereço IPv4 público de atribuição automática. (Somente para sub-redes públicas).**
 
