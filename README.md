@@ -61,7 +61,7 @@ A etapa 1 descreve o processo de criação de uma VPC na AWS com 2 sub-redes pú
   4. Selecione a tabela criada e vá até a aba **Rotas**.
   5. Clique em **Editar Rotas → Adicionar Rotas**.
      - **Destino**: `0.0.0.0/0`
-     - **Alvo**: Selecione o Gateway de Internet (`**MeuIGW**`).
+     - **Alvo**: Selecione o Gateway de Internet (`MeuIGW`).
   6. Salve as alterações.
 
 ![rotas](https://github.com/user-attachments/assets/0e584180-4938-4958-b244-346d9704919d)
@@ -70,7 +70,7 @@ A etapa 1 descreve o processo de criação de uma VPC na AWS com 2 sub-redes pú
   1. No menu **Sub-redes**, selecione **Public-Subnet-1**.
   2. Clique em **Tabela de Rotas → Editar Associação da Tabela de Rotas**.
   3. Em **ID da Tabela de Rotas**, selecione `Public-Route-Table` e salve.
-  4. Repita o processo para `**Public-Subnet-2**`.
+  4. Repita o processo para `Public-Subnet-2`.
 
 ### 4. Criando uma Instância EC2
 1. No **AWS Console**, acesse **EC2**.
