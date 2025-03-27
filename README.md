@@ -152,7 +152,7 @@ sudo nano index.html
 
 Adicione algum conteúdo ao arquivo, depois salve e saia do editor (** Ctrl + X , depois Y e Enter ** ).
 
-![site](https://github.com/user-attachments/assets/0931f67e-ecd2-4a9a-8e13-2fdb6ce0f510)
+![site](https://github.com/user-attachments/assets/6a437e11-00c1-4a29-a104-dea26921c93d)
 
 
 # 3. Configure o Nginx para servir a página
