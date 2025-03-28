@@ -32,9 +32,9 @@ A etapa 1 descreve o processo de criação de uma VPC na AWS com 2 sub-redes pú
   
   | Nome da Sub-rede     | Tipo    | Zona de Disponibilidade | Bloco CIDR IPv4  |
   |----------------------|---------|-------------------------|------------------|
-  | Sub-rede-pública-2   | Público | us-east-1b              | 10.0.2.0/24      |
-  | Sub-rede-privada-1   | Privada | us-east-1a              | 10.0.3.0/24      |
-  | Sub-rede-privada-2   | Privada | us-east-1b              | 10.0.4.0/24      |
+  | Public-Subnet-2      | Público | us-east-1b              | 10.0.2.0/24      |
+  | Private-Subnet-1     | Privada | us-east-1a              | 10.0.3.0/24      |
+  | Private-Subnet-2     | Privada | us-east-1b              | 10.0.4.0/24      |
   
   
 
